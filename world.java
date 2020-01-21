@@ -1,0 +1,3 @@
+class world{
+	public world(){}
+	}
